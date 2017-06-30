@@ -1,0 +1,11 @@
+{
+  "name": "impack-example",
+  "version": "1.0.0",
+  "description": "The impack example host app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Yuan Yao",
+  "license": "MIT"
+}
